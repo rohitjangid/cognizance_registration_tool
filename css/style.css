@@ -1,0 +1,27 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.addcid{
+	font-size:16px;
+	margin-top:7px;
+	margin-left:7px;
+	cursor:pointer;
+	color:#999;
+}
+.addcid:hover{
+	color:#000;
+}
+.adddd{
+	font-size:16px;
+	margin-top:7px;
+	margin-left:7px;
+	cursor:pointer;
+	color:#999;
+}
+.adddd:hover{
+	color:#000;
+}
